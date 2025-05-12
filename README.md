@@ -1,4 +1,4 @@
 # first
 My first git repository
 <br>
-Author - Tanvi Prajapati
+Author - Tanvi Prajapati (first)
